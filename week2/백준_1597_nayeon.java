@@ -17,7 +17,9 @@ public class Boj1697 {
         n = Integer.parseInt(st.nextToken());
         k = Integer.parseInt(st.nextToken());
 
-        if (n == k){ 
+
+        if (n == k){
+
             System.out.println(0);
         }else{
             bfs(n);
@@ -33,7 +35,9 @@ public class Boj1697 {
         while(!q.isEmpty()){
             int tmp = q.poll(); // 가장 먼저 들어간 원소를 꺼내고 리턴
 
+
             for(int i = 0; i < 3; i++){ // 3번 반복 ( +1, -1, *2 )
+
                 int next;
                 if (i == 0){
                     next = tmp + 1;
@@ -43,7 +47,9 @@ public class Boj1697 {
                     next = tmp * 2;
                 }
 
+
                 if (next == k){ // 다음 노드가 동생이 있는 위치라면 
+
                     System.out.println(visited[tmp]);
                     return;
                 }
