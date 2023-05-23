@@ -10,7 +10,7 @@
 - [백준-1679번-숨바꼭질 1-실버1](https://www.acmicpc.net/problem/1697)
 - [백준-12851번-숨바꼭질 2-골드4](https://www.acmicpc.net/problem/12851)
 
-## Week 3 문제:230510/BFS2
+## Week 3 문제:230511/BFS2
 - [백준-13549번-숨바꼭질 3-골드5](https://www.acmicpc.net/problem/13549)
 - [백준-13913번-숨바꼭질 4-골드4](https://www.acmicpc.net/problem/13913)
 
