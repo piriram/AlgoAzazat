@@ -15,6 +15,9 @@
 - [백준-12851번-숨바꼭질 2-골드4](https://www.acmicpc.net/problem/12851)
 - [백준-13913번-숨바꼭질 4-골드4](https://www.acmicpc.net/problem/13913)
 
+## Week 4 문제:230515/Greedy
+- [백준-1715번-카드정렬하기-골드4](https://www.acmicpc.net/problem/1715)
+- [백준-11501번-주식-실버2](https://www.acmicpc.net/problem/11501)
 ## 제목 규칙
 - 해당주차 폴더에 넣고
 - 백준_<문제번호>_<영어이름>.확장자
