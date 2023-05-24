@@ -7,7 +7,7 @@
 - [백준-7490번-0만들기-골드5](https://www.acmicpc.net/problem/7490)
 - [백준-2529번-부등호-실버1](https://www.acmicpc.net/problem/2529)
 ## Week 2 문제:230511/BFS1
-- [백준-1679번-숨바꼭질 1-실버1](https://www.acmicpc.net/problem/1697)
+- [백준-1697번-숨바꼭질 1-실버1](https://www.acmicpc.net/problem/1697)
 - [백준-13549번-숨바꼭질 3-골드5](https://www.acmicpc.net/problem/13549)
 
 
