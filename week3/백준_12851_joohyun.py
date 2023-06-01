@@ -1,4 +1,5 @@
 from collections import deque
+
 N, K = map(int,input().split())
 visited = [0] * 200001
 
@@ -35,3 +36,4 @@ def bfs(n):
 
 for ans in bfs(N):
     print(ans)
+
