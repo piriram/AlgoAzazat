@@ -1,0 +1,33 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+	ios_base::sync_with_stdio(NULL);
+	cin.tie(0);
+	
+	int N;
+	cin >> N;
+	for (int i = 0; i < N; i++) {
+		vector<int> cost;
+		int M;
+		cin >> M;
+		for (int i = 0; i < M; i++) {
+			int tmp;
+			cin >> tmp;
+			cost.push_back(tmp);
+		}
+
+		long long answer = 0;
+		long long stand = cost[cost.size() - 1];
+		for (int i = cost.size() - 1; i > -1; i--) { // 4 8 2 7 6
+			if (stand <= cost[i])
+				stand = cost[i];
+			else {
+				long long pro = stand - cost[i];
+				answer += pro;
+			}
+		}
+		cout << answer << '\n';
+	}
+}
