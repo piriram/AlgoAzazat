@@ -27,7 +27,7 @@
 - [백준-10775번-공항-골드2](https://www.acmicpc.net/problem/10775)
 
 ## Week 7 문제:230618/정렬
-- [백준-10816번-소트인사이드-실버5](https://www.acmicpc.net/problem/1427)
+- [백준-1427번-소트인사이드-실버5](https://www.acmicpc.net/problem/1427)
 - [백준-11650번-좌표정렬하기-실버5](https://www.acmicpc.net/problem/11650)
 ## Week 8 문제:230625/이진탐색문제
 - [백준-2512번-예산-실버3](https://www.acmicpc.net/problem/2512)
