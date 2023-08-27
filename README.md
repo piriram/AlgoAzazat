@@ -1,37 +1,25 @@
-# AlgoAzazat
+# 알고리즘 아자잣 스터디
 
-### ALCP 활동 페이지 입니다.
-- [백준 그룹 링크](https://www.acmicpc.net/group/17501)
+**스터디 기간: 2023.04 - 2023.07**
 
-## Week 1 문제:230410/DFS
-- [백준-7490번-0만들기-골드5](https://www.acmicpc.net/problem/7490)
-- [백준-2529번-부등호-실버1](https://www.acmicpc.net/problem/2529)
-## Week 2 문제:230511/BFS1
-- [백준-1697번-숨바꼭질 1-실버1](https://www.acmicpc.net/problem/1697)
-- [백준-13549번-숨바꼭질 3-골드5](https://www.acmicpc.net/problem/13549)
+## Problem Sets
 
+| Week | Topics           | Problem Links |
+|------|------------------|---------------|
+| 1    | DFS              | [백준-7490-0만들기](https://www.acmicpc.net/problem/7490)<br>[백준-2529-부등호](https://www.acmicpc.net/problem/2529) |
+| 2    | BFS1             | [백준-1697-숨바꼭질](https://www.acmicpc.net/problem/1697)<br>[백준-13549-숨바꼭질3](https://www.acmicpc.net/problem/13549) |
+| 3    | BFS2             | [백준-12851-숨바꼭질2](https://www.acmicpc.net/problem/12851)<br>[백준-13913-숨바꼭질4](https://www.acmicpc.net/problem/13913) |
+| 4    | Greedy           | [백준-1715-카드정렬하기](https://www.acmicpc.net/problem/1715)<br>[백준-11501-주식](https://www.acmicpc.net/problem/11501) |
+| 5    | Dynamic Programming | [백준-11052-카드 구매하기](https://www.acmicpc.net/problem/11052)<br>[백준-9565-스터디](https://www.acmicpc.net/problem/9465) |
+| 6    | Graph            | [백준-1976-여행가자](https://www.acmicpc.net/problem/1976)<br>[백준-10775-공항](https://www.acmicpc.net/problem/10775) |
+| 7    | Sorting          | [백준-1427-소트인사이드](https://www.acmicpc.net/problem/1427)<br>[백준-11650-좌표정렬하기](https://www.acmicpc.net/problem/11650) |
+| 8    | Binary Search    | [백준-2512-예산](https://www.acmicpc.net/problem/2512)<br>[백준-2110-공유기설치](https://www.acmicpc.net/problem/2110) |
 
-## Week 3 문제:230519/BFS2
-- [백준-12851번-숨바꼭질 2-골드4](https://www.acmicpc.net/problem/12851)
-- [백준-13913번-숨바꼭질 4-골드4](https://www.acmicpc.net/problem/13913)
+## 진행 규칙
+- 주차별로 해당 주차의 담당자를 선정한다.
+- 스터디원은 마감일까지 문제를 풀어 아래 제목규칙에 맞추어 스터디 레파짓토리에 게시한다.
+- zoom 회의를 통해 각자 코드 풀이방식에 대해 설명한다.
 
-## Week 4 문제:230523/Greedy
-- [백준-1715번-카드정렬하기-골드4](https://www.acmicpc.net/problem/1715)
-- [백준-11501번-주식-실버2](https://www.acmicpc.net/problem/11501)
-## Week 5 문제:230604/DP
-- [백준-1715번-골드4](https://www.acmicpc.net/problem/1715)
-- [백준-11501번-실버2](https://www.acmicpc.net/problem/11501)
-
-## Week 6 문제:230611/그래프 이론
-- [백준-1976번-여행가자-골드4](https://www.acmicpc.net/problem/1976)
-- [백준-10775번-공항-골드2](https://www.acmicpc.net/problem/10775)
-
-## Week 7 문제:230618/정렬
-- [백준-1427번-소트인사이드-실버5](https://www.acmicpc.net/problem/1427)
-- [백준-11650번-좌표정렬하기-실버5](https://www.acmicpc.net/problem/11650)
-## Week 8 문제:230625/이진탐색문제
-- [백준-2512번-예산-실버3](https://www.acmicpc.net/problem/2512)
-- [백준-2110번-공유기설치-골드4](https://www.acmicpc.net/problem/2110)
 ## 제목 규칙
-- 해당주차 폴더에 넣고
+- 해당 주차 폴더에 넣고
 - 백준_<문제번호>_<영어이름>.확장자
